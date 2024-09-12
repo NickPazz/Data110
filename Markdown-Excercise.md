@@ -5,23 +5,23 @@ Data 110
 
 This is Nick Pazzaglia's attempt to get the basics of markdown
 
-## This is an example of how you write in Bold and Italics (according to markdown syntax, but bold is not showing up on my monitor)
+### This is an example of how you write in Bold and Italics (according to markdown syntax, but bold is not showing up on my monitor)
 
 __War is Over!__
 
 *It's going to get worse before it gets better*
 
-## This is a list of tasks to be completed today
+### This is a list of tasks to be completed today
 
 1. Repair Flat Tire
 2. Adjust bicycle gearing
 3. Complete Data 110 assignment
 4. Get some groceries
 
+###This an obscure album cover from the great french electronica band Stereolab. The album was created before the backup singer died by being run over on her bicycle in Paris
 
-[link] (https://github.com/NickPazz/Data110/blob/main)
 
-<a href="https://github.com/NickPazz/Data110/blob/main/stereolab%20cover.jpg">link</a>
+
 
 ## This is one of my favorite quotes in Italics
 
