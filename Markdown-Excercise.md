@@ -1,6 +1,6 @@
 # Week 1 Assignment Data 110
 
-### MD Author
+## MD Author
 
 This is Nick Pazzaglia's attempt to get the basics of markdown with the intention of learning tools for my fantasy of becomming a professional programmer.
 
@@ -34,8 +34,7 @@ __War is Over!__
 Radavist (https://theradavist.com/)
 
 
-## Here is a photo of me winning a mountain bike race in Deleware. I miss my long hair. My life was awesome!
-
+## Here is a photo of me winning a mountain bike race in Deleware. I miss my long hair. My life used to be awesome
 ![Racing Shape](309090415_576315384248233_371210998705080915_n.jpg)
 
 ### This is one of my favorite quotes in Italics
@@ -46,8 +45,11 @@ Radavist (https://theradavist.com/)
 
 `print('Hello, world!')`
 
+### Codebloc for converting Date times in a table to Quarters with python. Working with dates- always annoying.
+
 ```
-Python is named from Monty Python and not the snake. Programmers are nerds
+year_date_type['TIME_FRAME'] = pd.to_datetime(year_date_type['CALENDARMONTH']).dt.strftime('%Y').astype(str) + np.where(year_date_type['CALENDARMONTH'].dt.month.le(6), ' H1', ' H2').astype(str)
+
 ```
 
 ### Table of transit times to some of my favorite places in D.C.
