@@ -21,7 +21,7 @@ __War is Over!__
 
 
 
-### This is one of my favorite quotes in Italics
+## This is one of my favorite quotes in Italics
 
 *"If you gaze long enough into an abyss, the abyss will gaze back into you"* - Fredrick Nietzsche
 
