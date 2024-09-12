@@ -18,9 +18,9 @@ __War is Over!__
 3. Complete Data 110 assignment
 4. Get some groceries
 
-###This an obscure album cover from the great french electronica band Stereolab. The album was created before the backup singer died by being run over on her bicycle in Paris
+###This is an obscure album cover from the great french electronic band Stereolab. The album was created before the one of the singer's died by being run over on her bicycle in Paris, France
 
-![Album cover art](/stereolab cover.jpg)
+![Album cover art](stereolab_cover.jpg)
 
 ## This is one of my favorite quotes in Italics
 
