@@ -69,5 +69,5 @@ Python is named from Monty Python and not the snake. Programmers are nerds
 
 #### A footnote regarding my life experience of the last four years
 
-[^1]: "A breif history of my life completely falling apart and trying to rebuild it from scratch". *Stores From a World Wide Flu Pandemic*  [^1]
+[^1]: "A breif history of my life completely falling apart and trying to rebuild it from scratch". *Stories From a World Wide Flu Pandemic*  [^1]
  
