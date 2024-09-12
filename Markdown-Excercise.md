@@ -3,7 +3,7 @@ Data 110
 
 ## MD Author
 
-This is Nick Pazzaglia attempt to breifly get the basics of markdown
+This is Nick Pazzaglia's attempt to get the basics of markdown
 
 ## This is an example of how you write in Bold and Italics (according to markdown syntax, but bold is not showing up on my monitor)
 
@@ -19,7 +19,9 @@ __War is Over!__
 4. Get some groceries
 
 
+[link] (https://github.com/NickPazz/Data110/blob/main)
 
+<a href="https://github.com/NickPazz/Data110/blob/main/stereolab%20cover.jpg">link</a>
 
 ## This is one of my favorite quotes in Italics
 
