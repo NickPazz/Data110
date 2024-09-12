@@ -20,7 +20,7 @@ __War is Over!__
 
 ###This an obscure album cover from the great french electronica band Stereolab. The album was created before the backup singer died by being run over on her bicycle in Paris
 
-![Album cover art](stereolab cover.jpg)
+![Album cover art](/stereolab cover.jpg)
 
 ## This is one of my favorite quotes in Italics
 
