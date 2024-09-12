@@ -1,6 +1,6 @@
 # Week 1 Assignment Data 110
 
-# MD Author
+### MD Author
 
 This is Nick Pazzaglia's attempt to get the basics of markdown with the intention of learning tools for my fantasy of becomming a professional programmer.
 
